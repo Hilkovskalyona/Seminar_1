@@ -27,3 +27,4 @@ Markdown (произносится *маркда́ун*) — [облегчён�
 Разработчик|Джон Грубер
 Опубликован|2014-03-19
 Сайт|<https://daringfireball.net/projects/markdown/>
+![](https://upload.wikimedia.org/wikipedia/commons/9/94/Markdown_Syntax_in_gedit.png)
